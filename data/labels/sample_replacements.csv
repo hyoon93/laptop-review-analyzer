@@ -1,0 +1,11 @@
+position,old_review_id,new_review_id,product_id,rating,reason
+5,L04-165,L04-111,L04,1,not English (Spanish)
+14,L04-151,L04-141,L04,5,not English (Spanish)
+29,L08-072,L08-044,L08,3,not English (Spanish)
+76,L05-079,L05-123,L05,3,not English (Spanish)
+80,L02-180,L02-115,L02,5,not English (Spanish)
+103,L08-043,L08-078,L08,5,not English (Spanish)
+104,L08-110,L08-095,L08,4,not English (Spanish)
+176,L03-035,L03-077,L03,1,not English (Spanish)
+180,L08-065,L08-097,L08,4,not English (Spanish)
+198,L08-130,L08-085,L08,5,not English (Spanish)

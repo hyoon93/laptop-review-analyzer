@@ -1,0 +1,16 @@
+{
+  "aspect_quality": null,
+  "aspects_total": 4781,
+  "aspects_per_review": 3.1085825747724316,
+  "evidence_verbatim": 0.9479188454298264,
+  "high_star_reviews": 969,
+  "high_star_with_negative_aspect": 0.3766769865841073,
+  "low_star_reviews": 443,
+  "low_star_with_positive_aspect": 0.13318284424379231,
+  "check_on_labeled_4_5_star": {
+    "n": 120,
+    "model_negative_aspect": 0.45,
+    "human_negative_or_mixed": 0.125,
+    "agreement": 0.6583333333333333
+  }
+}

@@ -1,0 +1,18 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Large or regenerable data (see README for how to rebuild)
+data/raw/
+data/backup_*/
+# SemEval-2014 is third-party data: download it (see README) instead of redistributing.
+# The predictions file contains the test sentences and gold labels; only the metrics
+# (data/processed/eval_semeval.json) are kept.
+data/semeval/
+data/processed/semeval_predictions.jsonl
+
+# Kept on purpose: data/processed (pipeline results the app reads), data/labels (my hand
+# labels), data/cache/llm_cache.jsonl (call cache: makes the demo examples instant and free),
+# data/chroma (the search index, so the deployed app does not rebuild it on every start)

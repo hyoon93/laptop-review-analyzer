@@ -1,0 +1,13 @@
+gold,pred_positive,pred_neutral,pred_negative,system
+gold_positive,108,17,5,stars
+gold_neutral,4,8,5,stars
+gold_negative,8,35,110,stars
+gold_positive,122,1,7,vader
+gold_neutral,11,2,4,vader
+gold_negative,65,13,75,vader
+gold_positive,97,3,30,distilbert
+gold_neutral,5,2,10,distilbert
+gold_negative,7,0,146,distilbert
+gold_positive,109,12,9,llm
+gold_neutral,5,4,8,llm
+gold_negative,2,10,141,llm

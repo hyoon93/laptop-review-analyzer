@@ -1,0 +1,10 @@
+# Offline pipeline and evaluation (data download, DistilBERT baseline, scoring).
+# Install CPU-only torch first:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+# then:
+#   pip install -r requirements-offline.txt
+-r requirements.txt
+requests==2.34.2
+scikit-learn==1.9.1
+sentence-transformers==6.2.0
+transformers==5.22.0

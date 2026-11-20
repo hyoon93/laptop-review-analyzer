@@ -1,0 +1,13 @@
+{
+  "criteria": "Laptops only (no renewed listings, no miscategorized parts). At least ~350 cleaned text reviews, at least ~15% of them 1-2 stars, reviews running into 2022-2023. One product per segment, so the app compares different kinds of laptop: budget, ultra-budget eMMC, Chromebook, 2-in-1, gaming, MacBook, premium Windows, off-brand budget.",
+  "products": [
+    {"parent_asin": "B0C2ZMJW53", "short_name": "Acer Aspire 3 (14\", Ryzen 5)", "type": "budget"},
+    {"parent_asin": "B081V6W99V", "short_name": "ASUS Vivobook L210 (11.6\", Celeron)", "type": "ultra-budget"},
+    {"parent_asin": "B08CSHM6L3", "short_name": "HP Chromebook 14", "type": "chromebook"},
+    {"parent_asin": "B0C7H1XD7V", "short_name": "Lenovo Flex 5 14 2-in-1", "type": "2-in-1"},
+    {"parent_asin": "B0BZJZKQQQ", "short_name": "ASUS TUF F15 Gaming", "type": "gaming"},
+    {"parent_asin": "B08GG9QKX6", "short_name": "Apple MacBook Air 13 (2020)", "type": "macbook"},
+    {"parent_asin": "B07193JV2T", "short_name": "Microsoft Surface Laptop", "type": "premium"},
+    {"parent_asin": "B0BW61XVX8", "short_name": "CHUWI HeroBook Pro 14.1\"", "type": "off-brand budget"}
+  ]
+}
