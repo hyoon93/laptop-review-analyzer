@@ -237,7 +237,7 @@ with tabs[0]:
     c[2].metric("Negative", f"{share.get('negative', 0):.0%}")
     c[3].metric("Mixed opinions", f"{prod_reviews['mixed'].mean():.0%}",
                 help="Reviews with at least one clear positive and one clear negative opinion.")
-    c[4].metric("Stars disagree with text", int(prod_reviews["disagree"].sum()),
+    c[4].metric("Stars ≠ text", int(prod_reviews["disagree"].sum()),
                 help="4–5★ reviews whose text is negative, or 1–2★ reviews whose text is positive.")
 
     left, right = st.columns([2, 3])

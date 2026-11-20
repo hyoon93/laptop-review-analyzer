@@ -2,7 +2,7 @@
 
 COSC 661 final project (Hee Young Yoon). Turns hundreds of Amazon laptop reviews into aspect-level sentiment, a summary in which every claim cites the reviews behind it, and a question box that answers from the reviews or says it can't. Scope and evaluation plan: [PLAN.md](PLAN.md).
 
-**Deployed app:** _link added after deployment_
+**Deployed app:** https://laptop-review-analyzer.streamlit.app/
 
 ## 1. What it does
 
